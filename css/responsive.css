@@ -1,0 +1,1251 @@
+@media (min-width: 1400px) {}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /* =====================
+         Menu Part Start
+    ======================== */
+    .main_menu ul {
+        gap: 25px;
+    }
+
+    .main_menu .menu_button a {
+        padding: 14px 30px;
+    }
+
+    /* =====================
+         Menu Part End
+    ======================== */
+    /* =====================
+         Travel Part Start
+    ======================== */
+    .travel_service p {
+        width: 100%;
+    }
+
+    /* =====================
+         Travel Part End
+    ======================== */
+
+    /* =====================
+         Service  Part Start
+    ======================== */
+    .service_heading p {
+        width: 100%;
+    }
+
+    /* =====================
+         Service Part End
+    ======================== */
+
+    /* =====================
+         Destination Part Start
+    ======================== */
+    .destination_text h2 {
+        width: 100%;
+    }
+
+    .destination_text p {
+        width: 100%;
+    }
+
+    .d-nation_text h2 {
+        width: 100%;
+    }
+
+    .d-nation_text p {
+        width: 100%;
+    }
+
+    .d-nation_list {
+        margin: 10px 0 20px;
+    }
+
+    /* =====================
+         Destination Part End
+    ======================== */
+
+    /* ========================
+         Explore Part Start
+    =========================== */
+    .explore_menu .nav-tabs {
+        gap: 20px;
+    }
+
+    .explore_menu .nav-link {
+        padding: 15px 30px;
+    }
+
+    /* ==========================
+         Explore Part End
+    ============================= */
+    /* ==========================
+         Testimonial Part Start
+    ============================= */
+    .testimonial_slide p {
+        width: 100%;
+    }
+
+    /* =========================
+         Testimonial Part End
+    ============================ */
+    /* =========================
+         Footer Part Start
+    ============================ */
+    .footer_contact p {
+        width: 100%;
+    }
+
+    /* =========================
+         Footer Part End
+    ============================ */
+}
+
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* ==========================
+             Common Part Start
+       ========================== */
+    .common_text h2 {
+        font-size: 35px;
+    }
+
+    .common_text p {
+        line-height: 30px;
+        padding-top: 20px;
+    }
+
+    /* ==========================
+             Common Part End
+       ========================== */
+
+    /* ===========================
+              Menu Part Start 
+       ===========================*/
+    .main_menu {
+        padding: 15px 0 !important;
+    }
+
+    .main_logo {
+        width: 160px;
+    }
+
+    .main_menu ul {
+        gap: 0px;
+        text-align: center;
+    }
+
+    .main_menu ul li {
+        margin: 0 auto;
+    }
+
+    .main_menu .menu_button {
+        width: fit-content;
+        margin: 0 auto;
+    }
+
+    .main_menu .menu_button a {
+        padding: 10px 20px;
+    }
+
+    .main_menu .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .main_menu .navbar-toggler {
+        border: 0;
+    }
+
+    /* ===========================
+              Menu Part End 
+       ===========================*/
+    /* ===========================
+            Banner Part Start 
+       ===========================*/
+    #banner {
+        padding: 80px 0 80px;
+    }
+
+    .banner_text h1 {
+        width: 100%;
+        font-size: 45px;
+        line-height: 48px;
+    }
+
+    .banner_text p {
+        width: 100%;
+        line-height: 30px;
+        margin: 26px 0 30px;
+    }
+
+    .banner_search {
+        padding: 46px;
+        margin-top: 50px;
+        flex-direction: column;
+        gap: 28px;
+    }
+
+    .search_button {
+        margin-top: 10px;
+    }
+
+    .search_button button {
+        padding: 15px 55px;
+    }
+
+    /* ===========================
+            Banner Part End 
+       ===========================*/
+    /* ===========================
+              Travel Part Start 
+       ===========================*/
+    #travel {
+        padding: 80px 0;
+    }
+
+    .travel_heading {
+        padding-bottom: 60px;
+    }
+
+    .travel_heading p {
+        width: 100%;
+    }
+
+    .travel_service {
+        padding: 38px 0px;
+        text-align: center;
+    }
+
+    .travel_service .travel_icon {
+        margin: 0 auto;
+    }
+
+    .travel_service h3 {
+        margin-top: 30px;
+    }
+
+    .travel_service p {
+        width: 100%;
+    }
+
+    /* ===========================
+              Travel Part End 
+       ===========================*/
+    /* ===========================
+              Popular Part Start 
+       ===========================*/
+    #popular {
+        padding-bottom: 80px;
+    }
+
+    .popular_headding {
+        padding-bottom: 30px;
+    }
+
+    .popular_headding p {
+        width: 100%;
+    }
+
+    /* ===========================
+              Popular Part End 
+       ===========================*/
+    /* ===========================
+              Service Part Start 
+       ===========================*/
+    #service {
+        padding: 80px 0;
+    }
+
+    .service_heading h2 {
+        width: 344px;
+    }
+
+    .service_heading p {
+        width: 530px;
+    }
+
+    .service_heading .service_list {
+        margin: 12px 0;
+    }
+
+    .service_button {
+        margin-bottom: 15px;
+    }
+
+    .service_button a {
+        margin-top: 30px;
+    }
+
+    .success_common {
+        padding: 30px 0px;
+        text-align: center;
+    }
+
+    .clients_success {
+        margin: 40px 0;
+    }
+
+    .achieve_success {
+        margin: 40px 0;
+    }
+
+    /* ===========================
+              Service Part End 
+       ===========================*/
+    /* ===========================
+              Destination Part Start 
+       ===========================*/
+    #destination {
+        padding: 80px 0;
+    }
+
+    .destination_text {
+        padding-top: 30px;
+    }
+
+    .destination_text p {
+        width: 100%;
+    }
+
+    .destination_button a {
+        margin: 30px 20px;
+    }
+
+    .destination_img {
+        margin-bottom: 45px;
+    }
+
+    .d-nation_text {
+        margin-top: 30px;
+        margin-left: 0;
+    }
+
+    .d-nation_text p {
+        width: 100%;
+    }
+
+    .d-nation_list {
+        margin: 18px 0;
+
+    }
+
+    .d-nation_list {
+        display: flex;
+        gap: 20px;
+    }
+
+    .destination_accordion .accordion-item {
+        width: 100%;
+        margin-bottom: 14px;
+    }
+
+    .destination_accordion {
+        margin: 40px 0;
+    }
+
+    /* ===========================
+              Destination Part End 
+       ===========================*/
+    /* ===========================
+              Explore Part Start 
+       ===========================*/
+    #explore {
+        padding-bottom: 80px;
+    }
+
+    .explore_text p {
+        width: 100%;
+    }
+
+    .explore_menu .nav-tabs {
+        border-bottom: none;
+        gap: 12px;
+    }
+
+    .explore_menu .nav-link {
+        padding: 10px 10px;
+    }
+
+    .explore_slide {
+        padding-bottom: 40px;
+        margin-top: 30px;
+    }
+
+    /* ===========================
+              Explore Part End 
+       ===========================*/
+    /* ===========================
+              Testimonial Part Start 
+       ===========================*/
+    #testimonial {
+        padding-bottom: 60px;
+    }
+
+    .testimonial_img {
+        display: none;
+    }
+
+    .testimonial_slide {
+        margin-top: 25px;
+        width: 100%;
+    }
+
+    .testimonial_slide p {
+        width: 100%;
+        line-height: 26px;
+    }
+
+    /* ===========================
+              Testimonial Part End 
+       ===========================*/
+    /* ===========================
+              Subscribe Part Start 
+       ===========================*/
+    #subscribe {
+        padding: 80px 0;
+    }
+
+    .subscribe_details h2 {
+        width: 100%;
+    }
+
+    .subscribe_details p {
+        width: 100%;
+    }
+
+    .sub_input {
+        width: 700px;
+    }
+
+    .sub_input button {
+        padding: 15px 32px;
+        width: fit-content;
+    }
+
+    .sub_input input {
+        border: none;
+        /* text-align: center; */
+    }
+
+    /* ===========================
+              SubscribePart End 
+       ===========================*/
+    /* ===========================
+              Footer Part Start 
+       ===========================*/
+    #footer {
+        padding: 80px 0;
+    }
+
+    .footer_logo {
+        width: 160px;
+        margin: 0 auto;
+    }
+
+    .footer_contact ul {
+        justify-content: center;
+    }
+
+    .footer_contact .footer_icons {
+        margin: 25px 0;
+        gap: 48px;
+    }
+
+    .footer_contact p {
+        width: 100%;
+        line-height: 30px;
+        text-align: center;
+    }
+
+    .footer_menu {
+        padding-top: 40px;
+        text-align: center;
+    }
+
+    .footer_menu h4 {
+        margin-bottom: 15px;
+    }
+
+    .footer_menu li a {
+        line-height: 36px;
+    }
+
+    /* ===========================
+              Footer Part End 
+       ===========================*/
+}
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* ==========================
+             Common Part Start
+       ========================== */
+    .common_text h2 {
+        font-size: 32px;
+    }
+
+    .common_text p {
+        line-height: 28px;
+        padding-top: 18px;
+    }
+
+    /* ==========================
+             Common Part End
+       ========================== */
+
+    /* ===========================
+              Menu Part Start 
+       ===========================*/
+    .main_menu {
+        padding: 15px 10px !important;
+    }
+
+    .main_logo {
+        width: 150px;
+    }
+
+    .main_menu ul {
+        gap: 0px;
+        text-align: center;
+    }
+
+    .main_menu ul li {
+        margin: 0 auto;
+    }
+
+    .main_menu .menu_button {
+        width: fit-content;
+        margin: 0 auto;
+    }
+
+    .main_menu .menu_button a {
+        padding: 10px 20px;
+    }
+
+    .main_menu .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .main_menu .navbar-toggler {
+        border: 0;
+    }
+
+    /* ===========================
+              Menu Part End 
+       ===========================*/
+    /* ===========================
+            Banner Part Start 
+       ===========================*/
+    #banner {
+        padding: 60px 0 60px;
+    }
+
+    .banner_text h1 {
+        width: 100%;
+        font-size: 42px;
+        line-height: 44px;
+    }
+
+    .banner_text p {
+        width: 100%;
+        line-height: 26px;
+        margin: 24px 0 28px;
+    }
+
+    .banner_search {
+        padding: 34px;
+        margin-top: 40px;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .search_button button {
+        padding: 15px 55px;
+    }
+
+    /* ===========================
+            Banner Part End 
+       ===========================*/
+    /* ===========================
+              Travel Part Start 
+       ===========================*/
+    #travel {
+        padding: 60px 0;
+    }
+
+    .travel_heading {
+        padding-bottom: 60px;
+    }
+
+    .travel_heading p {
+        width: 100%;
+    }
+
+    .travel_service {
+        padding: 36px 0px;
+        text-align: center;
+    }
+
+    .travel_service .travel_icon {
+        margin: 0 auto;
+    }
+
+    .travel_service h3 {
+        margin-top: 30px;
+    }
+
+    .travel_service p {
+        width: 100%;
+    }
+
+    /* ===========================
+              Travel Part End 
+       ===========================*/
+    /* ===========================
+              Popular Part Start 
+       ===========================*/
+    #popular {
+        padding-bottom: 60px;
+    }
+
+    .popular_headding {
+        padding-bottom: 30px;
+    }
+
+    .popular_headding p {
+        width: 100%;
+    }
+
+    /* ===========================
+              Popular Part End 
+       ===========================*/
+    /* ===========================
+              Service Part Start 
+       ===========================*/
+    #service {
+        padding: 60px 0;
+    }
+
+    .service_heading h2 {
+        width: 100%;
+    }
+
+    .service_heading p {
+        width: 100%;
+    }
+
+    .service_heading .service_list {
+        margin: 10px 0;
+    }
+
+    .service_heading .service_list ul li p {
+        width: 100%;
+    }
+
+    .service_button {
+        margin-bottom: 10px;
+    }
+
+    .service_button a {
+        margin-top: 30px;
+    }
+
+    .success_common {
+        padding: 30px 0px;
+        text-align: center;
+    }
+
+    .clients_success {
+        margin: 30px 0;
+    }
+
+    .achieve_success {
+        margin: 30px 0;
+    }
+
+    /* ===========================
+              Service Part End 
+       ===========================*/
+    /* ===========================
+              Destination Part Start 
+       ===========================*/
+    #destination {
+        padding: 60px 0;
+    }
+
+    .destination_text {
+        padding-top: 30px;
+    }
+
+    .destination_text h2 {
+        width: 100%;
+    }
+
+    .destination_text p {
+        width: 100%;
+    }
+
+    .destination_button a {
+        margin: 30px 20px;
+    }
+
+    .destination_img {
+        margin-bottom: 35px;
+    }
+
+    .checkin {
+        display: none;
+    }
+
+    .text {
+        display: none;
+    }
+
+    .d-nation_text {
+        margin-top: 30px;
+        margin-left: 0;
+    }
+
+    .d-nation_text h2 {
+        width: 100%;
+    }
+
+    .d-nation_text p {
+        width: 100%;
+    }
+
+    .d-nation_list {
+        margin: 18px 0;
+    }
+
+    .destination_accordion .accordion-item {
+        width: 100%;
+        margin-bottom: 8px;
+    }
+
+    .destination_accordion {
+        margin: 40px 0 25px;
+    }
+
+    /* ===========================
+              Destination Part End 
+       ===========================*/
+    /* ===========================
+              Explore Part Start 
+       ===========================*/
+    #explore {
+        padding-bottom: 60px;
+    }
+
+    .explore_text p {
+        width: 100%;
+    }
+
+    .explore_menu .nav-tabs {
+        border-bottom: none;
+        gap: 12px;
+    }
+
+    .explore_menu .nav-link {
+        padding: 10px 10px;
+    }
+
+    .explore_slide {
+        padding-bottom: 40px;
+        margin-top: 30px;
+    }
+
+    /* ===========================
+              Explore Part End 
+       ===========================*/
+    /* ===========================
+              Testimonial Part Start 
+       ===========================*/
+    #testimonial {
+        padding-bottom: 60px;
+    }
+
+    .testimonial_img {
+        display: none;
+    }
+
+    .testimonial_slide {
+        margin-top: 20px;
+    }
+
+    .testimonial_slide p {
+        width: 100%;
+        line-height: 26px;
+    }
+
+    /* ===========================
+              Testimonial Part End 
+       ===========================*/
+    /* ===========================
+              Subscribe Part Start 
+       ===========================*/
+    #subscribe {
+        padding: 60px 0;
+    }
+
+    .subscribe_details h2 {
+        width: 100%;
+    }
+
+    .subscribe_details p {
+        width: 100%;
+    }
+
+    .sub_input {
+        width: 100%;
+        flex-direction: column;
+        gap: 30px;
+        justify-content: center;
+    }
+
+    .sub_input button {
+        padding: 15px 32px;
+        ;
+        width: fit-content;
+        margin: 0 auto;
+    }
+
+    .sub_input input {
+        border: none;
+        text-align: center;
+    }
+
+    /* ===========================
+              SubscribePart End 
+       ===========================*/
+    /* ===========================
+              Footer Part Start 
+       ===========================*/
+    #footer {
+        padding: 60px 0;
+    }
+
+    .footer_logo {
+        width: 150px;
+        margin: 0 auto;
+    }
+
+    .footer_contact ul {
+        justify-content: center;
+    }
+
+    .footer_contact .footer_icons {
+        margin: 20px 0 20px;
+    }
+
+    .footer_contact p {
+        width: 100%;
+        line-height: 26px;
+        text-align: center;
+    }
+
+    .footer_menu {
+        padding-top: 28px;
+        text-align: center;
+    }
+
+    .footer_menu h4 {
+        margin-bottom: 15px;
+    }
+
+    .footer_menu li a {
+        line-height: 34px;
+    }
+
+    /* ===========================
+              Footer Part End 
+       ===========================*/
+
+}
+
+
+@media (max-width: 575.98px) {
+
+    /* ==========================
+             Common Part Start
+       ========================== */
+    .common_text h2 {
+        font-size: 26px;
+    }
+
+    .common_text p {
+        line-height: 28px;
+        padding-top: 15px;
+    }
+
+    /* ==========================
+             Common Part End
+       ========================== */
+
+    /* ===========================
+              Menu Part Start 
+       ===========================*/
+    .main_menu {
+        padding: 15px 10px !important;
+    }
+
+    .main_logo {
+        width: 150px;
+    }
+
+    .main_menu ul {
+        gap: 0px;
+        text-align: center;
+    }
+
+    .main_menu ul li {
+        margin: 0 auto;
+    }
+
+    .main_menu .menu_button {
+        width: fit-content;
+        margin: 0 auto;
+    }
+
+    .main_menu .menu_button a {
+        padding: 10px 20px;
+    }
+
+    .main_menu .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .main_menu .navbar-toggler {
+        border: 0;
+    }
+
+    /* ===========================
+              Menu Part End 
+       ===========================*/
+    /* ===========================
+            Banner Part Start 
+       ===========================*/
+    #banner {
+        padding: 60px 0 60px;
+    }
+
+    .banner_text h1 {
+        width: 100%;
+        font-size: 38px;
+        line-height: 42px;
+    }
+
+    .banner_text p {
+        width: 100%;
+        line-height: 26px;
+        margin: 20px 0 25px;
+    }
+
+    .banner_search {
+        margin-top: 35px;
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    .search_button button {
+        padding: 15px 55px;
+    }
+
+    /* ===========================
+            Banner Part End 
+       ===========================*/
+    /* ===========================
+              Travel Part Start 
+       ===========================*/
+    #travel {
+        padding: 60px 0;
+    }
+
+    .travel_heading {
+        padding-bottom: 60px;
+    }
+
+    .travel_heading p {
+        width: 100%;
+    }
+
+    .travel_service {
+        padding: 30px 0px;
+        text-align: center;
+    }
+
+    .travel_service .travel_icon {
+        margin: 0 auto;
+    }
+
+    .travel_service h3 {
+        margin-top: 30px;
+    }
+
+    .travel_service p {
+        width: 100%;
+    }
+
+    /* ===========================
+              Travel Part End 
+       ===========================*/
+    /* ===========================
+              Popular Part Start 
+       ===========================*/
+    #popular {
+        padding-bottom: 60px;
+    }
+
+    .popular_headding {
+        padding-bottom: 30px;
+    }
+
+    .popular_headding p {
+        width: 100%;
+    }
+
+    /* ===========================
+              Popular Part End 
+       ===========================*/
+    /* ===========================
+              Service Part Start 
+       ===========================*/
+    #service {
+        padding: 60px 0;
+    }
+
+    .service_heading h2 {
+        width: 100%;
+    }
+
+    .service_heading p {
+        width: 100%;
+    }
+
+    .service_heading .service_list ul li p {
+        width: 100%;
+    }
+
+    .service_button a {
+        margin-top: 30px;
+    }
+
+    .success_common {
+        padding: 30px 0px;
+        text-align: center;
+    }
+
+    .clients_success {
+        margin: 30px 0;
+    }
+
+    .achieve_success {
+        margin: 30px 0;
+    }
+
+    /* ===========================
+              Service Part End 
+       ===========================*/
+    /* ===========================
+              Destination Part Start 
+       ===========================*/
+    #destination {
+        padding: 60px 0;
+    }
+
+    .destination_text {
+        padding-top: 30px;
+    }
+
+    .destination_text h2 {
+        width: 100%;
+    }
+
+    .destination_text p {
+        width: 100%;
+    }
+
+    .destination_button a {
+        margin: 30px 20px;
+    }
+
+    .destination_img {
+        margin-bottom: 35px;
+    }
+
+    .checkin {
+        display: none;
+    }
+
+    .text {
+        display: none;
+    }
+
+    .d-nation_text {
+        margin-top: 30px;
+        margin-left: 0;
+    }
+
+    .d-nation_text h2 {
+        width: 100%;
+    }
+
+    .d-nation_text p {
+        width: 100%;
+    }
+
+    .d-nation_list {
+        margin: 15px 0;
+    }
+
+    .destination_accordion .accordion-item {
+        width: 100%;
+        margin-bottom: 5px;
+
+    }
+
+    .destination_accordion {
+        margin: 40px 0 15px;
+    }
+
+    /* ===========================
+              Destination Part End 
+       ===========================*/
+    /* ===========================
+              Explore Part Start 
+       ===========================*/
+    #explore {
+        padding-bottom: 60px;
+    }
+
+    .explore_text p {
+        width: 100%;
+    }
+
+    .explore_menu .nav-tabs {
+        border-bottom: none;
+        gap: 10px;
+    }
+
+    .explore_menu .nav-link {
+        padding: 10px 10px;
+    }
+
+    .explore_slide {
+        padding-bottom: 40px;
+        margin-top: 30px;
+    }
+
+    /* ===========================
+              Explore Part End 
+       ===========================*/
+    /* ===========================
+              Testimonial Part Start 
+       ===========================*/
+    #testimonial {
+        padding-bottom: 60px;
+    }
+
+    .testimonial_img {
+        display: none;
+    }
+
+    .testimonial_slide {
+        margin-top: 20px;
+    }
+
+    .testimonial_slide p {
+        width: 100%;
+        line-height: 26px;
+    }
+
+    /* ===========================
+              Testimonial Part End 
+       ===========================*/
+    /* ===========================
+              Subscribe Part Start 
+       ===========================*/
+    #subscribe {
+        padding: 60px 0;
+    }
+
+    .subscribe_details h2 {
+        width: 100%;
+    }
+
+    .subscribe_details p {
+        width: 100%;
+    }
+
+    .sub_input {
+        width: 100%;
+        flex-direction: column;
+        gap: 30px;
+        justify-content: center;
+    }
+
+    .sub_input button {
+        padding: 15px 32px;
+        ;
+        width: fit-content;
+        margin: 0 auto;
+    }
+
+    .sub_input input {
+        border: none;
+        text-align: center;
+    }
+
+    /* ===========================
+              SubscribePart End 
+       ===========================*/
+    /* ===========================
+              Footer Part Start 
+       ===========================*/
+    #footer {
+        padding: 60px 0;
+    }
+
+    .footer_logo {
+        width: 150px;
+        margin: 0 auto;
+    }
+
+    .footer_contact .footer_icons {
+        margin: 20px 0 20px;
+    }
+
+    .footer_contact p {
+        width: 100%;
+        line-height: 26px;
+        text-align: center;
+    }
+
+    .footer_contact ul {
+        justify-content: center;
+    }
+
+    .footer_menu {
+        padding-top: 20px;
+        text-align: center;
+    }
+
+    .footer_menu h4 {
+        margin-bottom: 15px;
+    }
+
+    .footer_menu li a {
+        line-height: 30px;
+    }
+
+    /* ===========================
+              Footer Part End 
+       ===========================*/
+
+}
